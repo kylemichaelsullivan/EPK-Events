@@ -1,0 +1,5 @@
+/* Hide the Permalink */
+/* This is a hacky workaround, and I'd welcome a PR! */
+#edit-slug-box {
+	display: none !important;
+}
